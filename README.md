@@ -16,6 +16,10 @@
 <img src= "fotopagit.jfif" width="200">
 </p>
 
+<p align="center">
+  <i>"Construyendo mi camino en el desarrollo, una línea de código a la vez 💻✨"</i>
+</p>
+
 ### Sobre mí:
 Soy un estudiante/desarrollador en proceso de aprendizaje enfocado en el desarrollo de software.  
 Me interesa crear soluciones prácticas, aprender nuevas tecnologías y mejorar constantemente mis habilidades.
@@ -25,7 +29,6 @@ Actualmente estoy enfocado en:
 - Buenas prácticas de código
 
 ---
-
 ## Tecnologías y herramientas
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
@@ -45,14 +48,20 @@ Actualmente estoy enfocado en:
 
 ---
 ## Proyectos
+Actualmente estoy desarrollando proyectos pequeños como:
+- Ejercicios en JavaScript  
+- Prácticas de lógica de programación  
+- Uso de Git y GitHub en proyectos académicos  
 
+Pronto estaré publicando proyectos completos en este perfil.
+
+---
 ## Estadisticas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shari-jpn)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shari-jpn)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shari-jpn)
  
 ---
- 
 ## Contador de Visitas
 <img src="https://komarev.com/ghpvc/?username=shari-jpn&label=Profile%20views&color=00D4FF&style=plastic">
 <img src="https://raw.githubusercontent.com/shari-jpn/shari-jpn/output/github-contribution-grid-snake.svg">
