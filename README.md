@@ -9,7 +9,7 @@
 <a href="https://github.com/shari-jpn/shari-jpn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="apoorvtyagi" height="20" width="20" /></a>
 <a href="https://wa.me/573046783848"><img align="center" alt="WhatsApp" width="22px" src="https://cdn-icons-png.flaticon.com/512/785/785969.png" /></a>
 <a href="https://www.instagram.com/sharikparejo?utm_source=qr&igsh=OWl4OHV3eWtzbmIx" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/87/87390.png" alt="Instagram" height="20" width="20" /></a>
-<a href="mailto:tucorreo@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/646/646094.png" alt="email" height="20" width="20" /></a>
+<a href="mailto:parejosharik5@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/646/646094.png" alt="email" height="20" width="20" /></a>
 </p>
 
 <p align="center">
