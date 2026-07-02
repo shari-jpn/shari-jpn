@@ -1,5 +1,8 @@
 
 <h1 align="center">Hi, I'm Sharik Parejo Mejia👋🏻</h1>
+<div align="center" width="50">
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/welcometext.gif" alt="Welcome!" width="300"/>
+</div>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sharik-parejo-1952a2383?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>&nbsp;
@@ -9,9 +12,6 @@
 <a href="mailto:parejosharik5@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/646/646094.png" alt="email" height="20" width="20" /></a>
 </p>
 
-<p align="center">
-<img src= "fotopagit.jfif" width="200">
-</p>
 
 <p align="center">
   <i>"Construyendo mi camino en el desarrollo, una línea de código a la vez 💻✨"</i>
